@@ -1,3 +1,13 @@
 apiVersion: v1
-entries: {}
-generated: "2021-07-19T15:29:59.993771+03:00"
+entries:
+  iwok8scollector:
+  - apiVersion: v1
+    appVersion: 8.x
+    created: "2021-07-19T16:27:23.316972+03:00"
+    description: A Helm chart for IWO Kubernetes Collector
+    digest: 85a745fc2289b74da01df87b0999ed8acd1230d27829285cc5a1a5544b1066e2
+    name: iwok8scollector
+    urls:
+    - iwok8scollector-1.0.1.tgz
+    version: 1.0.1
+generated: "2021-07-19T16:27:23.316254+03:00"
